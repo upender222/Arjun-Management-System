@@ -251,3 +251,23 @@ Learn Runtime Polymorphism
 Method Overriding
 Dynamic Method Dispatch
 Improve Arjun Management using Polymorphism
+
+
+
+//pushing into git hub//
+
+/No.	Command	Simple explanation
+1	git --version	Checks whether Git is installed.
+2	git status	Checks the current Git status of the project.
+3	git init	Initializes Git in the project folder.
+4	git status	Checks untracked files and changes.
+5	Get-Content .gitignore	Displays the contents of .gitignore.
+6	Add-Content .gitignore "n.idea/n*.iml"	Adds IntelliJ files to the ignore list.
+7	git add .	Stages all eligible project files.
+8	git status	Checks which files are staged.
+9	git commit -m "Initial commit: Student Management System"	Saves the first snapshot of the project.
+10	git branch -M main	Renames the current branch to main.
+11	git remote add origin https://github.com/upender222/Arjun-Management-System.git	Connects the local project to GitHub.
+12	git remote -v	Verifies the GitHub repository connection.
+13	git push -u origin main	Uploads the project to GitHub.
+//
